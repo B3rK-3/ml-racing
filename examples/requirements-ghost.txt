@@ -1,0 +1,11 @@
+# Install after the upstream editable package using pip 23.3.2; see README.
+# These versions were exercised with Python 3.9 on macOS arm64.
+numpy==1.22.0
+scipy==1.11.4
+numba==0.60.0
+Pillow==9.5.0
+PyYAML==6.0.3
+pyglet==1.5.27
+PyOpenGL==3.1.10
+onnx==1.17.0
+onnxruntime==1.19.2
